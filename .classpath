@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium Training/selenium-java-2.27.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumFiles_NSEit/ExcelJars/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumFiles_NSEit/ExcelJars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumFiles_NSEit/ExcelJars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumFiles_NSEit/ExcelJars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumFiles_NSEit/ExcelJars/ShineXLS.jar"/>
+	<classpathentry kind="lib" path="C:/SeleniumFiles_NSEit/ExcelJars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/madhur/Downloads/webdrivermanager-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Selenium 3.14x/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/httpclient5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/httpcore5-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/httpcore5-h2-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium_Upskilling/Webdriverjars/webdrivermanager-4.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
